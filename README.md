@@ -6,3 +6,7 @@ Given that the lab's main entrance is currently connected to the COVID testing c
 ![map missing](images/IILab_Location_Map_2021.jpg).
 <a/>
 As of now that entrance will be locked, so please message someone on slack or email *iilab@asu.edu* to get the door opened.
+
+# II-Lifeguard Calendar
+Given that volunteers/members can only access the lab when a II-Lifeguard is present, the below calendar is useful for estimating when you can enter the lab. *Note that this calendar is just an estimate, so take it with a grain of salt and either email or slack the person who is listed as present in the lab*
+[Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19zcWNpdXFhb2RxM3Q1aGU1MHIxNzc3Zm9wa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)

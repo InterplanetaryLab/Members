@@ -13,49 +13,49 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 
 # Facilities
 **Electronics Room**
-	- 5 Electronic work stations
-	    - Over head lighting 
-        - 120V outlet access
-	- 2 Testing work stations
-	    - Benchtop Osciliscope
-          - Rigol DS1104Z Oscilloscope
+- 5 Electronic work stations
+    - Over head lighting 
+- 120V outlet access
+- 2 Testing work stations
+    - Benchtop Osciliscope
+  - Rigol DS1104Z Oscilloscope
+- Bench top DC power supply
+    - Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
+- Benchtop Multimeter/Aquisition set up
+    -DAQ6510 Data Acquisition/Multimeter system
+- ESD Safe mat, grounding wrist strap and lab coat
+- CPU and Monitor
+- 3 Assembly stations 
+- Solder Iron
 	- Bench top DC power supply
-	    - Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
+	  -Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
 	- Benchtop Multimeter/Aquisition set up
-	    -DAQ6510 Data Acquisition/Multimeter system
+	  -DAQ6510 Data Acquisition/Multimeter system
+	- Electronincs Hot Plate
+	- Rework Station
+	- Smoke Absorber
+	- ESD Safe Small size screw drivers and hex head screw drivers
+	- MIcroscope for PCB assembly
+	- Puhui Infrared IC Heater T-962 (For PCB baking)
 	- ESD Safe mat, grounding wrist strap and lab coat
-	- CPU and Monitor
-	- 3 Assembly stations 
-        - Solder Iron
-		- Bench top DC power supply
-		  -Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
-		- Benchtop Multimeter/Aquisition set up
-		  -DAQ6510 Data Acquisition/Multimeter system
-		- Electronincs Hot Plate
-		- Rework Station
-		- Smoke Absorber
-		- ESD Safe Small size screw drivers and hex head screw drivers
-		- MIcroscope for PCB assembly
-		- Puhui Infrared IC Heater T-962 (For PCB baking)
-		- ESD Safe mat, grounding wrist strap and lab coat
-		- Calipers
-		- Various Electronics Hardware(Wire, Solder, Capacitors, resistors, etc.)
-	- 3D Printers
-	    - Raise 3D Pro
-	      -300mm x 300mm x 300mm Print bed; Heated Bed; various print materials
-	    - Maker Bot Replicator 2X
-		  -Heated bed; various pint plastics
-	    - Formlabs Form 3 SLA Printer
-          - 145mm x 145mm x 185mm Print bed
-	    - Formlabs Alcohol Washbasin
-	    - Formlabs Curing Station
-	-RF Spectrum Analyzer
-	    -Adavntest 
-	    -9kHz-3GHz
-	- AgilentE4350B Solar array simulator(Power Supply) 
-	    - 8A/480W
-	- HP 6637A System DC Power Supply
-	    -0-35V/0-60A
+	- Calipers
+	- Various Electronics Hardware(Wire, Solder, Capacitors, resistors, etc.)
+- 3D Printers
+    - Raise 3D Pro
+      -300mm x 300mm x 300mm Print bed; Heated Bed; various print materials
+    - Maker Bot Replicator 2X
+	  -Heated bed; various pint plastics
+    - Formlabs Form 3 SLA Printer
+  - 145mm x 145mm x 185mm Print bed
+    - Formlabs Alcohol Washbasin
+    - Formlabs Curing Station
+-RF Spectrum Analyzer
+    -Adavntest 
+    -9kHz-3GHz
+- AgilentE4350B Solar array simulator(Power Supply) 
+    - 8A/480W
+- HP 6637A System DC Power Supply
+    -0-35V/0-60A
 **Workshop Testing Room**
 	- Wen Drill Press
 	- Ryobi Drill Press 

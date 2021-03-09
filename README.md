@@ -12,6 +12,7 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 [Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19zcWNpdXFhb2RxM3Q1aGU1MHIxNzc3Zm9wa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 # Facilities
+
 **Electronics Room**
 - 5 Electronic work stations
     - Over head lighting 
@@ -56,7 +57,6 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
     - 8A/480W
 - HP 6637A System DC Power Supply
     - 0-35V/0-60A
-<br/>
 
 **Workshop Testing Room**
 - Wen Drill Press
@@ -84,3 +84,16 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
     - Various Tapes(Duct tape included)
     - Fume Hood
     - Compressor
+
+**Clean Room**
+ - ESD Safe Table
+ - Particle Counter
+
+**Conference Room**
+ - AV equipment 
+
+**ITAR Storage**
+ - Ample space for items that meet ITAR criteria
+
+**General Storage**
+ - Ample Storage Space

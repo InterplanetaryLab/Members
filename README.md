@@ -12,25 +12,25 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 [Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y19zcWNpdXFhb2RxM3Q1aGU1MHIxNzc3Zm9wa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 # Facilities
-*Electonics Room
-	- 5 electronic work stations
-		- Over head lighting 
-		- 120V outlet access
-	- 2 testing work stations
-		- Benchtop Osciliscope
-			Rigol DS1104Z Oscilloscope
-		- Bench top DC power supply
-			-Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
-		- Benchtop Multimeter/Aquisition set up
-			-DAQ6510 Data Acquisition/Multimeter system
-		- ESD Safe mat, grounding wrist strap and lab coat
-		- CPU and Monitor
+**Electronics Room**
+	- 5 Electronic work stations
+	    - Over head lighting 
+        - 120V outlet access
+	- 2 Testing work stations
+	    - Benchtop Osciliscope
+          - Rigol DS1104Z Oscilloscope
+	- Bench top DC power supply
+	    - Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
+	- Benchtop Multimeter/Aquisition set up
+	    -DAQ6510 Data Acquisition/Multimeter system
+	- ESD Safe mat, grounding wrist strap and lab coat
+	- CPU and Monitor
 	- 3 Assembly stations 
-		- Solder Iron
+        - Solder Iron
 		- Bench top DC power supply
-			-Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
+		  -Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
 		- Benchtop Multimeter/Aquisition set up
-			-DAQ6510 Data Acquisition/Multimeter system
+		  -DAQ6510 Data Acquisition/Multimeter system
 		- Electronincs Hot Plate
 		- Rework Station
 		- Smoke Absorber
@@ -41,32 +41,32 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 		- Calipers
 		- Various Electronics Hardware(Wire, Solder, Capacitors, resistors, etc.)
 	- 3D Printers
-		- Raise 3D Pro
-			-300mm x 300mm x 300mm Print bed; Heated Bed; various print materials
-		- Maker Bot Replicator 2X
-			-Heated bed; various pint plastics
-		- Formlabs Form 3 SLA Printer
-			-145mm x 145mm x 185mm Print bed
-		- Formlabs Alcohol Washbasin
-		- Formlabs Curing Station
+	    - Raise 3D Pro
+	      -300mm x 300mm x 300mm Print bed; Heated Bed; various print materials
+	    - Maker Bot Replicator 2X
+		  -Heated bed; various pint plastics
+	    - Formlabs Form 3 SLA Printer
+          - 145mm x 145mm x 185mm Print bed
+	    - Formlabs Alcohol Washbasin
+	    - Formlabs Curing Station
 	-RF Spectrum Analyzer
-		-Adavntest 
-		-9kHz-3GHz
-	- AgilentE4350B Solar array simulator 
-		- 8A/480W
+	    -Adavntest 
+	    -9kHz-3GHz
+	- AgilentE4350B Solar array simulator(Power Supply) 
+	    - 8A/480W
 	- HP 6637A System DC Power Supply
-		-0-35V/0-60A
-*Workshop Testing Room
+	    -0-35V/0-60A
+**Workshop Testing Room**
 	- Wen Drill Press
 	- Ryobi Drill Press 
 	- Vacuum Chamber
-		- 3x10^-3 Torr
-		- 1m x 1m x 1m inside
-		- Interior Light
+	    - 3x10^-3 Torr
+	    - 1m x 1m x 1m inside
+        - Interior Light
 	- Liquid Nitrogen Dewar
-		- Cryogenic Apron, Gloves and Face shield
+	    - Cryogenic Apron, Gloves and Face shield
 	- Tool Chest
-		- Drill
+	    - Drill
 			-Large assortment of drill bit sizes
 		- Circular Saw
 		- Hammer and Mallet
@@ -79,15 +79,15 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 		- Heat Gun
 		- Dremel
 		- Glue Gun
-		- Various Tapes(Duct tape included)
+		- VArious Tapes(Duct tape included)
 		- Fume Hood
 		- Compressor
-*Clean Room
+**Clean Room**
 	- ESD Safe Table
-	- Particle Counter
-*Conference Room
+	- Particle COunter
+**Conference Room**
 	- AV equipment 
-*ITAR Storage
-	-Ample space for items that meet ITAR criteria
-*General Storage
-	-Ample Storage Space
+**ITAR Storage**
+	- Ample space for items that meet ITAR criteria
+**General Storage**
+    - Ample Storage Space

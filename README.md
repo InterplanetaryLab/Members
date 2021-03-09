@@ -56,6 +56,7 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
     - 8A/480W
 - HP 6637A System DC Power Supply
     -0-35V/0-60A
+<a/>
 **Workshop Testing Room**
 	- Wen Drill Press
 	- Ryobi Drill Press 
@@ -67,7 +68,7 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 	    - Cryogenic Apron, Gloves and Face shield
 	- Tool Chest
 	    - Drill
-			-Large assortment of drill bit sizes
+			- Large assortment of drill bit sizes
 		- Circular Saw
 		- Hammer and Mallet
 		- Heliocoils and thread taps
@@ -82,6 +83,7 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 		- VArious Tapes(Duct tape included)
 		- Fume Hood
 		- Compressor
+<a/>
 **Clean Room**
 	- ESD Safe Table
 	- Particle COunter

@@ -22,74 +22,65 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 - Bench top DC power supply
     - Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
 - Benchtop Multimeter/Aquisition set up
-    -DAQ6510 Data Acquisition/Multimeter system
+    - DAQ6510 Data Acquisition/Multimeter system
 - ESD Safe mat, grounding wrist strap and lab coat
 - CPU and Monitor
 - 3 Assembly stations 
-- Solder Iron
+- Soldering Iron
 	- Bench top DC power supply
-	  -Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
+	  - Keithely 2231A-30-3; Two channels of 30V at 3A; 195 W total
 	- Benchtop Multimeter/Aquisition set up
-	  -DAQ6510 Data Acquisition/Multimeter system
+	  - DAQ6510 Data Acquisition/Multimeter system
 	- Electronincs Hot Plate
 	- Rework Station
 	- Smoke Absorber
 	- ESD Safe Small size screw drivers and hex head screw drivers
-	- MIcroscope for PCB assembly
+	- Microscope for PCB assembly
 	- Puhui Infrared IC Heater T-962 (For PCB baking)
 	- ESD Safe mat, grounding wrist strap and lab coat
 	- Calipers
 	- Various Electronics Hardware(Wire, Solder, Capacitors, resistors, etc.)
 - 3D Printers
-    - Raise 3D Pro
-      -300mm x 300mm x 300mm Print bed; Heated Bed; various print materials
+    - Raise 3D Pro 2
+      - 300mm x 300mm x 300mm Print bed; Heated Bed; various print materials
     - Maker Bot Replicator 2X
-	  -Heated bed; various pint plastics
+	- Heated bed; various pint plastics
     - Formlabs Form 3 SLA Printer
   - 145mm x 145mm x 185mm Print bed
     - Formlabs Alcohol Washbasin
     - Formlabs Curing Station
--RF Spectrum Analyzer
-    -Adavntest 
-    -9kHz-3GHz
+- RF Spectrum Analyzer
+    - Advantest 
+    - 9kHz-3GHz
 - AgilentE4350B Solar array simulator(Power Supply) 
     - 8A/480W
 - HP 6637A System DC Power Supply
-    -0-35V/0-60A
-<a/>
+    - 0-35V/0-60A
+<br/>
+
 **Workshop Testing Room**
-	- Wen Drill Press
-	- Ryobi Drill Press 
-	- Vacuum Chamber
-	    - 3x10^-3 Torr
-	    - 1m x 1m x 1m inside
-        - Interior Light
-	- Liquid Nitrogen Dewar
-	    - Cryogenic Apron, Gloves and Face shield
-	- Tool Chest
-	    - Drill
-			- Large assortment of drill bit sizes
-		- Circular Saw
-		- Hammer and Mallet
-		- Heliocoils and thread taps
-		- Clamps
-		- Hacksaw
-		- Adjustbale wrenches
-		- Socket head ratchet wrench set
-		- Allen Wrenches
-		- Heat Gun
-		- Dremel
-		- Glue Gun
-		- VArious Tapes(Duct tape included)
-		- Fume Hood
-		- Compressor
-<a/>
-**Clean Room**
-	- ESD Safe Table
-	- Particle COunter
-**Conference Room**
-	- AV equipment 
-**ITAR Storage**
-	- Ample space for items that meet ITAR criteria
-**General Storage**
-    - Ample Storage Space
+- Wen Drill Press
+- Ryobi Drill Press 
+- Vacuum Chamber
+    - 3x10^-3 Torr
+    - 1m x 1m x 1m inside
+- Interior Light
+- Liquid Nitrogen Dewar
+    - Cryogenic Apron, Gloves and Face shield
+- Tool Chest
+    - Drill
+    	- Large assortment of drill bit sizes
+    - Circular Saw
+    - Hammer and Mallet
+    - Heliocoils and thread taps
+    - Clamps
+    - Hacksaw
+    - Adjustbale wrenches
+    - Socket head ratchet wrench set
+    - Allen Wrenches
+    - Heat Gun
+    - Dremel
+    - Glue Gun
+    - Various Tapes(Duct tape included)
+    - Fume Hood
+    - Compressor

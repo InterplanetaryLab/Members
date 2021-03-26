@@ -14,6 +14,9 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
 # Facilities
 
 **Electronics Room**
+
+<img src="images/elec_lab.jpg" width=70% height=70%/>
+
 - 5 Electronic work stations
     - Over head lighting 
 - 120V outlet access
@@ -59,6 +62,9 @@ Given that volunteers/members can only access the lab when a II-Lifeguard is pre
     - 0-35V/0-60A
 
 **Workshop Testing Room**
+
+<img src="images/hard_lab.jpg" width=70% height=70%/>
+
 - Wen Drill Press
 - Ryobi Drill Press 
 - Vacuum Chamber

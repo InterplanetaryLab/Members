@@ -1,5 +1,8 @@
-# This document contains a lot of the more technical information pertaining to the Interplanetary Initiative Lab.
-*Note that this document will be more update to date than any of the information on the Interplanetary Initative Lab Website*
+# Interplanetary Initiative Laboratory Information page
+Information page for the IILab  "space maker space"  at Arizona State University. 
+
+
+Information on lab location, equipment, and how to become a user can be found in the [wiki](https://github.com/InterplanetaryLab/Members/wiki)
 
 # Location of the Lab
 Given that the lab's main entrance is currently connected to the COVID testing center's exit, our entrance has been shifted to the south side of the Sun Devil Hall. See the map below.
